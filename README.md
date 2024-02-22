@@ -69,3 +69,4 @@ Scripts to deploy PowerLoom services ([audit-protocol](https://github.com/PowerL
 ## Questions?
 1. Ask on our [Discord](https://powerloom.io/discord) - if you don't see the channel, ask an admin to add the snapshotter `role` to your account.
 2. Create an [issue](https://github.com/PowerLoom/deploy/issues/new)
+   
